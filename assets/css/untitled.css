@@ -131,8 +131,9 @@ footer.sticky-footer {
 
 #content {
   padding-top: 0%;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
-
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   padding-left: 0rem;
   padding-right: 0rem;

@@ -76,7 +76,7 @@
     });
     
 })(jQuery);
-var page = '/main.txt'
+var page = '/main'
 function changePage(event) {
  if (!event) {
         event = window.event; // Older versions of IE use 

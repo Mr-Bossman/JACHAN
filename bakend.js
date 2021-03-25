@@ -19,11 +19,11 @@ app.get('/assets/css/untitled.css', (req, res, next) => {
 app.get('/assets/css/Button-Outlines---Pretty.css', (req, res, next) => {
   res.sendfile('/assets/css/Button-Outlines---Pretty.css');
 })
-app.get('/bootstrap/css/bootstrap.min.css', (req, res, next) => {
-  res.sendfile('./bootstrap/css/bootstrap.min.css'');
+app.get('/assets/bootstrap/css/bootstrap.min.css', (req, res, next) => {
+  res.sendfile('./assets/bootstrap/css/bootstrap.min.css');
 })
 app.get('/main', (req, res, next) => {
-  res.sendfile('./main.txt'');
+  res.sendfile('./main.txt');
 })
 
 app.listen(80);

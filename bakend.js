@@ -7,6 +7,9 @@ const app = express();
 app.get('/', (req, res, next) => {
   res.sendfile('./main.html');
 })
+app.get('/favicon.ico', (req, res, next) => {
+  res.sendfile('./favicon.ico');
+})
 app.get('/assets/fonts/fontawesome5-overrides.min.css', (req, res, next) => {
   res.sendfile('./assets/fonts/fontawesome5-overrides.min.css');
 })
@@ -17,7 +20,7 @@ app.get('/assets/css/untitled.css', (req, res, next) => {
   res.sendfile('./assets/css/untitled.css');
 })
 app.get('/assets/css/Button-Outlines---Pretty.css', (req, res, next) => {
-  res.sendfile('/assets/css/Button-Outlines---Pretty.css');
+  res.sendfile('./assets/css/Button-Outlines---Pretty.css');
 })
 app.get('/assets/bootstrap/css/bootstrap.min.css', (req, res, next) => {
   res.sendfile('./assets/bootstrap/css/bootstrap.min.css');

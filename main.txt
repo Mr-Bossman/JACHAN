@@ -1,0 +1,20 @@
+# About me
+##### My name is Jesse Taube, im 18  in currently in high school. 
+
+Im a tech enthusist and asspiring emebeded enginere. 
+
+
+I have many servers that I do networking on, i also host a 10Gbe nas on it as well as a website. <br>
+I run my servers with debian cockpit and kvm. <br>
+I also have a cisco router and switch that i was learing cisco cli on.  
+
+
+I like coding I am knowlageable in C and C++ i know a little python, java, swift and bash(does that count). <br>
+I like making difrent embbed projetcts i started learing with arduino when i was 8,<br>
+but i quickly learned how other MCUs worked my favorite MCUs are probably the attiny series.   
+
+
+ [Blueberry.cam](https://blueberry.cam)<br>
+ [Leekspin.co](https://leekspin.co)<br>
+ [Git repo](https://repo.jachan.dev)<br>
+ [Deb repo](https://deb.jachan.dev)

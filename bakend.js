@@ -28,5 +28,16 @@ app.get('/main', (req, res, next) => {
 app.get('/f1c100s', (req, res, next) => {
     res.sendfile('./f1c100s.txt');
 })
+app.get('/verus', (req, res, next) => {
+    res.sendfile('./verus.txt');
+})
+
+app.get('/boost', (req, res, next) => {
+    res.sendfile('./boost.txt');
+})
+app.get('/infINT', (req, res, next) => {
+    res.sendfile('./infINT.txt');
+})
+
 
 app.listen(80);

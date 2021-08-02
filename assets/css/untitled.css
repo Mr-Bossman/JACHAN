@@ -5,14 +5,12 @@
 }
 
 .btn:focus {
-    padding: 0 !important;
     outline: 0 !important;
     box-shadow: none !important;
 }
 
 .btn {
     font-size: .85rem !important;
-    padding: 0 !important;
 }
 
 .button-ex .button-ex:hover {

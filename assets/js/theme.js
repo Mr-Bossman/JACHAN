@@ -3,7 +3,7 @@ if (page == null) {
     param('page', 'main');
 }
 jQuery.get(page, function(data) {
-    document.getElementById('content').innerHTML = marked(data);
+    document.getElementById('content').innerHTML = marked.parse(data);
 }).fail(function() {
     $("#404").show()
 });
@@ -19,7 +19,7 @@ function changePage(event) {
     param('page', el.children[0].innerHTML)
     page = el.children[0].innerHTML;
     jQuery.get(page, function(data) {
-        document.getElementById('content').innerHTML = marked(data);
+        document.getElementById('content').innerHTML = marked.parse(data);
     }).fail(function() {
         $("#404").show();
     });

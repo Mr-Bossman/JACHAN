@@ -22,4 +22,5 @@ Recently I have been looking into embedded Linux and FreeRTOS.
 - [Blueberry.cam](https:///blueberry.cam)
 - [Leekspin.co](https://Leekspin.co)
 - [Git repo](https://repo.jachan.dev/)
+- [Rick Roll](https://rick.jachan.dev/) (Rick roll in Ascii)
 - [Deb repo](https://deb.jachan.dev/) (Down)

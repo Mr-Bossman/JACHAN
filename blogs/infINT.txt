@@ -1,4 +1,4 @@
-infINT coding project.
+# infINT:
 
 In this project I wanted to increase my skills in math and c++. 
 I wanted to make a prime number finding program that uses avx and avx512 functions

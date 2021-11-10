@@ -11,13 +11,13 @@ I like making different embedded projects i started learning with arduino when i
 but I quickly learned how other MCUs worked. My favorite MCUs are probably the attiny series.
 Recently I have been looking into embedded Linux and FreeRTOS.
 
-##### Projects
+##### Projects:
 - [Colorcat](https://github.com/Mr-Bossman/colorcat)
 - [aaFAT](https://github.com/Mr-Bossman/aaFat)
 - [infINT](https://github.com/Mr-Bossman/infINT)
 - [code_golf](https://github.com/Mr-Bossman/code_golf)
 
-##### Websites
+##### Websites:
 - [Github](https://github.com/Mr-Bossman)
 - [Blueberry.cam](https:///blueberry.cam)
 - [Leekspin.co](https://Leekspin.co)

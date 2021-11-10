@@ -1,7 +1,11 @@
 @media (min-width:768px) {
     .sidebar {
-        width: 14rem!important;
+        width: 8rem !important;
     }
+}
+
+body {
+    color: #3c3d47 !important;
 }
 
 .btn:focus {
@@ -28,7 +32,7 @@
     text-align: center;
     padding: .5rem .75rem !important;
     font-size: 1rem !important;
-    width: 5rem !important;
+    width: 6rem !important;
 }
 
 .dropdown-menu {

@@ -88,9 +88,17 @@ body {
 }
 
 .dropdown .dropdown-toggle {
-    padding: .5rem .5rem;
+    padding: 0.15rem .5rem;
+    display: flex;
+    justify-content: space-between;
 }
-
+.sidebar .nav-item.dropdown .dropdown-toggle:after,
+.topbar .nav-item.dropdown .dropdown-toggle:after {
+    float:none !important;
+}
+.dropdown-toggle:after {
+    margin-left: 0 !important;
+}
 .dropdown-item:focus,
 .dropdown-item:hover {
     color: #2e2f37;
@@ -106,7 +114,7 @@ body {
 
 .hoverA:focus,
 .hoverA:hover {
-    color: #eeeeee;
+    color: #d9e7ff;
     text-decoration: none;
 }
 

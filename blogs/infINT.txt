@@ -1,5 +1,0 @@
-# infINT:
-
-In this project I wanted to increase my skills in math and c++. 
-I wanted to make a prime number finding program that uses avx and avx512 functions
-I made this after seeing how slow the original InfInt project was and I wanted to see how much I could do on my own. I made a lot of the code but it aint done i want be able to allocate as much memory as i want and also faster multiply and division functions using FFT but i never got to that i spent many hours working on this and its was one of my favorite c++ projects because i rarely had to search anything about API’s as it was all pure math.

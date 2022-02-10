@@ -1,5 +1,0 @@
-# F1C100s:
-
-One day I was browsing reddit and saw linux on a business card. I was intrigued. So i decided to make it have a display output and run debian on it. I did succeed on both. I first started on figuring out how u-boot and the linux kernel worked. I then got a lichee pi nano from speeed. And got linux working on it. Once it got it working i wanted to make my own board so that i could get easy access to the pins that control display output. I then created a program to control an 8080 interface display I got from alibaba. I wanted to get debian running on it so i started to learn about debootstrap and making a custom debian distro. I managed to get it to work after a while, but the display was small and usb and audio  still didn't work. So i found some patches for audio and usb and added them to the kernel. I also then realized i was doing debootstrap slightly wrong so i fixed that. But the display was still too small. So I made a RGB interface to VGA adapter circuit after realising the similarity to vga and looking around if others had done it. At that point i thought i was done with the project 
-
-

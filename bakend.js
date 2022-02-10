@@ -25,9 +25,5 @@ app.get('/assets/js/theme.js', (req, res, next) => {
 app.get('/assets/css/main.css', (req, res, next) => {
     res.sendFile('./assets/css/main.css', { root: __dirname });
 })
-app.get('/assets/bootstrap/css/bootstrap.min.css', (req, res, next) => {
-    res.sendFile('./assets/bootstrap/css/bootstrap.min.css', { root: __dirname });
-})
-
 
 app.listen(8080);

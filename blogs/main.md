@@ -1,15 +1,15 @@
 # About me
-### My name is Jesse Taube, I'm 18 and graduated High School on January 18.
+### Hi! 👋 My name is Jesse Taube
 
-I'm a tech enthusiast and aspiring embedded engineer.
+I'm a tech enthusiast and hobbyist embedded C engineer.
 
-I have many servers do networking and other computational tasks, I also host a 10Gbe NAS on it as well as many websites. My servers run with Debian, Cockpit and KVM.
-I also have a Cisco router and switch that I am learning Cisco's cli on.
+I spend of my free time experimenting with tech, maintaining several servers to for uses like my 10Gbe NAS and websites. My servers run on Debian and are being managed by Cockpit and KVM.
+I'm also gaining working knowlege of enterprise grade networking on a Cisco router and switch that I am learning Cisco's IOS command line interface with.
 
-I am knowledgeable in C and C++ I also know a bit of Python, Java, Swift and Bash(does that count).
-I like making different embedded projects I started learning with Arduino when I was 8,
-but I quickly learned how other MCUs worked. My favorite MCUs are probably the Attiny series.
-Recently I have been looking into embedded Linux and FreeRTOS.
+I am knowledgeable in C and C++ I and a bit of JS, Python, Java, Swift and Bash.
+I deeply appreciate all different embedded projects havning started learning with Arduino when I was 8,
+but more recently I've picked up learning how other MCUs worked with great zeal. I'd still probably have to say my favorite MCUs are the Attiny series.
+Recently I have been tinkering my way into embedded Linux and FreeRTOS.
 
 ##### Projects:
 - [Colorcat](https://github.com/Mr-Bossman/colorcat)

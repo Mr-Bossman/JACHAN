@@ -1,16 +1,20 @@
 const express = require('express');
 const app = express();
-
-const testFolder = './blogs/';
 const fs = require('fs');
 
-fs.readdirSync(testFolder).forEach(file => {
+fs.readdirSync('./blogs/').forEach(file => {
 	app.get('/' + file, (req, res, next) => {
 		res.sendFile('./blogs/' + file, { root: __dirname });
 	});
 });
 
-fs.readdirSync(testFolder).forEach(file => {
+fs.readdirSync('./assets/images/').forEach(file => {
+	app.get('/images/' + file, (req, res, next) => {
+		res.sendFile('./assets/images/' + file, { root: __dirname });
+	});
+});
+
+fs.readdirSync('./blogs/').forEach(file => {
 	app.get('/' + file.split('.')[0], (req, res, next) => {
 		res.sendFile('./main.html', { root: __dirname });
 	});

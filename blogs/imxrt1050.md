@@ -1,7 +1,7 @@
 # i.MXRT1050 Linux
 ## My journey porting Linux to a no-MMU SOC
 
-# ![iMXRT1050-evk](https://www.nxp.com/assets/images/en/dev-board-image/IMX_RT1050-EVKB_TOP-LR.jpg)
+# ![iMXRT1050-evk](/images/1050.png)
 
 # [My Linux contributions](https://github.com/torvalds/linux/commits?author=Mr-Bossman&since=2021-11-01) 
 

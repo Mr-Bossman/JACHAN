@@ -4,17 +4,23 @@
 I'm a tech enthusiast and hobbyist embedded C engineer.
 
 I spend of my free time experimenting with tech, maintaining several servers to for uses like my 10Gbe NAS and websites. My servers run on Debian and are being managed by Cockpit and KVM.
-I'm also gaining working knowlege of enterprise grade networking on a Cisco router and switch that I am learning Cisco's IOS command line interface with.
+I'm also gaining working knowledge of enterprise grade networking on a Cisco router and switch that I am learning Cisco's IOS command line interface with.
 
 I am knowledgeable in C and C++ I and a bit of JS, Python, Java, Swift and Bash.
-I deeply appreciate all different embedded projects havning started learning with Arduino when I was 8,
+I deeply appreciate all different embedded projects havening started learning with Arduino when I was 8,
 but more recently I've picked up learning how other MCUs worked with great zeal. I'd still probably have to say my favorite MCUs are the Attiny series.
 Recently I have been tinkering my way into embedded Linux and FreeRTOS.
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bossman"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&layout=compact&theme=buefy&hide_border=true" />
 <br>
+
+### New Blogs:
+- ##### [leekspin](/leekspin?date=2020.August)
+- ##### [imxrt1050](/imxrt1050?date=2021.September)
+
 ##### Projects:
 - [Colorcat](https://github.com/Mr-Bossman/colorcat)
 - [aaFAT](https://github.com/Mr-Bossman/aaFat)

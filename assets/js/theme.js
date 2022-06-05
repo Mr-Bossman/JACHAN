@@ -74,6 +74,7 @@ function fill() {
 						newP.hidden = false;
 						newP.append(yrProj[p][0]);
 						newP.children[0].innerHTML = yrProj[p][3];
+						newP.children[1].href = yrProj[p][3];
 						newM.children[1].appendChild(newP);
 					}
 

@@ -7,19 +7,22 @@
 	--open-bg: rgb(58, 62, 100);
 	--button-bg: rgb(88, 94, 153);
 	--open-fg: rgb(255, 255, 255);
-	--default-txt: rgb(235, 232, 232);
+	--default-txt: rgb(245, 242, 242);
 	--dropdown-text: #3c3d47;
 	--dropdown-bg: rgb(87, 91, 124);
-	--dropdown-no-hover: rgb(207, 207, 207);
-	--dropdown-hover: lightgrey;
+	--dropdown-no-hover: rgb(221, 221, 221);
+	--dropdown-hover: rgb(255, 255, 255);
 	--main-cont-bg: rgb(50, 49, 58);
 }
+
 p {
 	font-size: 16pt;
 }
+
 a {
 	color: rgb(50, 118, 243);
 }
+
 #smalltoggle {
 	padding-top: 0.5rem;
 	padding-left: 0.2rem;

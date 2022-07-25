@@ -765,12 +765,15 @@ body.sidebar-toggled footer.sticky-footer {
 	text-transform: uppercase !important;
 }
 
+.error-font{
+	font-size: 10rem;
+}
+
 .error {
-	color: #5a5c69;
-	font-size: 7rem;
+	color: var(--default-txt);
 	position: relative;
 	line-height: 1;
-	width: 12.5rem;
+	width: 18rem;
 }
 
 @-webkit-keyframes noise-anim {
@@ -911,11 +914,11 @@ body.sidebar-toggled footer.sticky-footer {
 	left: -2px;
 	text-shadow: 1px 0 #4e73df;
 	top: 0;
-	color: #5a5c69;
-	background: #f8f9fc;
+	color: var(--default-txt);
+	background: var(--main-cont-bg);
 	overflow: hidden;
 	clip: rect(0, 900px, 0, 0);
-	animation: noise-anim-2 s infinite linear alternate-reverse;
+	animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
 
 .error:after {
@@ -924,9 +927,9 @@ body.sidebar-toggled footer.sticky-footer {
 	left: 2px;
 	text-shadow: -1px 0 #e74a3b;
 	top: 0;
-	color: #5a5c69;
-	background: #f8f9fc;
+	color: var(--default-txt);
+	background: var(--main-cont-bg);
 	overflow: hidden;
 	clip: rect(0, 900px, 0, 0);
-	animation: noise-anim 2s infinite linear alternate-reverse;
+	animation: noise-anim 4s infinite linear alternate-reverse;
 }

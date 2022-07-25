@@ -52,6 +52,11 @@ app.get("/robots.txt", (req, res, next) => {
 	res.end();
 });
 
+app.use(function(req, res, next) {
+	res.status(404).sendFile('./main.html', { root: __dirname },);
+
+});
+
 function genSiteMap(){
 	const lastmod = new Date(Date.now()).toISOString().split("T")[0];
 	let response = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">"

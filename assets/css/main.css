@@ -15,6 +15,13 @@
 	--main-cont-bg: rgb(50, 49, 58);
 }
 
+img {
+	max-width: 70%;
+	height: auto;
+	max-height: 50%;
+	object-fit: cover;
+}
+
 p {
 	font-size: 16pt;
 }

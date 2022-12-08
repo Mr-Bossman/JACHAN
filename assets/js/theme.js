@@ -33,11 +33,17 @@ const months = ["January", "February", "March", "April", "May", "June", "July",
 ];
 
 const proj = [
+	["usbPD", '2022', 'September', 'usbPD'],
+	["Gallery", '2022', 'August', 'gallery'],
+	["32u4_lcd", '2022', 'August', '32u4_bulk'],
 	["Wacom", '2022', 'May', 'wacom'],
+	["i.MXRT11", '2022', 'March', 'imxrt1170'],
 	["Ghome", '2022', 'February', 'ghome'],
+	["ColorCat", '2021', 'October', 'colorcat'],
 	["aaFAT", '2021', 'September', 'aafat'],
 	["i.MXRT", '2021', 'September', 'imxrt1050'],
 	["Boost Conv", '2021', 'February', 'boost'],
+	["SpinScreen", '2020', 'December', "POV"],
 	["Home Lab", '2020', 'November', 'server'],
 	["Verus Coin", '2020', 'October', 'verus'],
 	["F1C100s", '2020', 'April', 'f1c100s'],

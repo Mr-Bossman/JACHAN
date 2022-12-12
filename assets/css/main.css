@@ -13,6 +13,11 @@
 	--dropdown-no-hover: rgb(221, 221, 221);
 	--dropdown-hover: rgb(255, 255, 255);
 	--main-cont-bg: rgb(50, 49, 58);
+	--default-code: rgb(157, 157, 182);
+}
+
+code {
+	color: var(--default-code) !important;
 }
 
 img {

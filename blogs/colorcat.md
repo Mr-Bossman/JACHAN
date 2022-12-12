@@ -29,5 +29,7 @@ colorcat@colorcat:~$colorcat -h
 ```
 
 ![Demo image 1](/images/colorcat3.png)
+
 ![Demo image 2](/images/colorcat1.png)
+
 ![Demo image 3](/images/colorcat2.png)

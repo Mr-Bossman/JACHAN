@@ -1,2 +1,3 @@
 # JACHAN
-My personal blog/protfolio
+
+[My personal blog/protfolio](https://jachan.dev)

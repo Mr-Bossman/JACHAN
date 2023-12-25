@@ -10,9 +10,9 @@ I treasure all different types of embedded projects havening started learning wi
 but of late I have picked up learning how other MCUs worked with great zeal. I'd still probably have to say my favorite MCUs are the Attiny series. Recently I have been tinkering my way into embedded Linux and FreeRTOS.
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Bossman"/>
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mr-Bossman&show_icons=true&include_all_commits=true&icon_color=FB7299&title_color=FB7299&hide_border=true"/>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&layout=compact&theme=buefy&hide_border=true&hide=Tcl,Assembly,HTML,CSS,Makefile,cmake&exclude_repo=binutils,imxrt-linux-buildroot,F1C100S-linux,wallet,rk3368-linux" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&include_all_commits=true&icon_color=FB7299&hide_border=true&title_color=FB7299&hide=Processing,Dockerfile,Tcl,Assembly,HTML,CSS,Makefile,cmake&exclude_repo=binutils,imxrt-linux-buildroot,F1C100S-linux,wallet,rk3368-linux" />
 <br>
 
 ### New Blogs:
@@ -37,5 +37,13 @@ but of late I have picked up learning how other MCUs worked with great zeal. I'd
 ##### Links:
 - [Github](https://github.com/Mr-Bossman)
 - [Linkedin](https://www.linkedin.com/in/jesse-taube-749351229)
+- [YouTube](https://www.youtube.com/@Mr-Bossman)
 - [Codingame](https://www.codingame.com/profile/db7ced7ebbe83f2eea510cc69e4f1d1e2390544)
-- [Minecraft: mc.jachan.dev](https://mc.jachan.dev)
+- Minecraft: ask for details
+
+##### Contact:
+- Email: Mr.Bossman075 (at) gmail
+- Email: Jesse (at) jachan dev
+- Discord: @jesse9
+- Instagram: ask me
+- I dont use snap or twitter.

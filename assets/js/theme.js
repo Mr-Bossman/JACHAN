@@ -26,13 +26,15 @@ function changePage(event) {
 	location.href = el.children[0].innerHTML + state;
 }
 
-const years = ['2022', '2021', '2020', '2019'];
+const years = ['2024', '2023', '2022', '2021', '2020', '2019'];
 
 const months = ["January", "February", "March", "April", "May", "June", "July",
 	"August", "September", "October", "November", "December"
 ];
 
 const proj = [
+	["KISC-V", '2023', 'February', 'KISCV'],
+	["SD Swap", '2022', 'December', 'SD_Swap'],
 	["usbPD", '2022', 'September', 'usbPD'],
 	["Gallery", '2022', 'August', 'gallery'],
 	["32u4_lcd", '2022', 'August', '32u4_bulk'],

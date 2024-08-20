@@ -5,8 +5,8 @@ I'm a tech enthusiast and hobbyist embedded C engineer.
 
 I spend most of my free time experimenting with tech and maintaining several servers too. I use my servers for my 10Gbe NAS and websites. My servers run on Debian and are being managed by Cockpit and KVM. I also use them to gain a working knowledge of enterprise-grade networking. To complement that I am also learning Cisco's IOS command line interface on a Cisco router and switch.
 
-I am knowledgeable in C and C++ I and a bit of JS, Python, Java, Swift, and Bash.
-I treasure all different types of embedded projects havening started learning with Arduino when I was 8,
+I am knowledgeable in C and C++ and a bit of JS, Python, Java, Swift, and Bash.
+I treasure all different types of embedded projects having started learning with Arduino when I was 8,
 but of late I have picked up learning how other MCUs worked with great zeal. I'd still probably have to say my favorite MCUs are the Attiny series. Recently I have been tinkering my way into embedded Linux and FreeRTOS.
 
 <br>

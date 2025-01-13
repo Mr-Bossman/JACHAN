@@ -3,7 +3,7 @@
 
 # ![iMXRT1050-evk](/images/1050.png)
 
-# [My Linux contributions](https://github.com/torvalds/linux/commits?author=Mr-Bossman&since=2021-11-01) 
+# [My Linux contributions](https://github.com/torvalds/linux/commits?author=Mr-Bossman&since=2021-11-01)
 
 ### After I was contempt with the F1C100s I decided I wanted to do more with embedded Linux.
 

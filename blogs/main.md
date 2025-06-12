@@ -12,7 +12,7 @@ but of late I have picked up learning how other MCUs worked with great zeal. I'd
 <br>
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mr-Bossman&show_icons=true&include_all_commits=true&icon_color=FB7299&title_color=FB7299&hide_border=true"/>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&include_all_commits=true&icon_color=FB7299&hide_border=true&title_color=FB7299&hide=Processing,Dockerfile,Tcl,Assembly,HTML,CSS,Makefile,cmake&exclude_repo=binutils,imxrt-linux-buildroot,F1C100S-linux,wallet,rk3368-linux" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&include_all_commits=true&icon_color=FB7299&hide_border=true&title_color=FB7299&hide=Processing,Dockerfile,Tcl,Assembly,HTML,CSS,Makefile,cmake&exclude_repo=binutils,imxrt-linux-buildroot,F1C100S-linux,wallet,rk3368-linux,klibc" />
 <br>
 <br>
 
